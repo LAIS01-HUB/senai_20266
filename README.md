@@ -1,1 +1,2 @@
-# senai_20266
+# Dolar hoje 
+App simples que busca o valor do dolar atualizado no api awesomeapi
